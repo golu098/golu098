@@ -1,5 +1,4 @@
-<img src="https://venturebeat.com/wp-content/uploads/2021/02/GitHub-screen.jpg?resize=1200%2C600&strip=all">
-
+<img src="https://raw.githubusercontent.com/Vnjvibhash/Vnjvibhash/main/coder.gif">
 <h1 align="center">Hi 👋, I'm Shiv Kant Kumar</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
